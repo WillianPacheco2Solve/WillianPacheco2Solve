@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="logoFavicon.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   width="128"
+   height="128"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="110.30866"
+     inkscape:cy="69.650018"
+     inkscape:window-width="1366"
+     inkscape:window-height="713"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10"
+     height="127px"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <rect
+     style="fill:#f5f5f5;fill-opacity:1;stroke-linejoin:round"
+     id="rect353"
+     width="128"
+     height="128"
+     x="0"
+     y="0"
+     ry="64" />
+  <g
+     id="g238"
+     transform="matrix(0.92400599,0,0,0.92400599,4.8636166,24.219915)">
+    <path
+       style="fill:#000807;fill-opacity:1;stroke:none;stroke-width:1.21883px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 15.402305,48.933468 15.419408,-13.382653 8.751949,7.502795 -0.04306,-15.674414 h 7.251326 v 31.34187 L 30.93858,44.564019 15.23871,58.798327 15.17011,49.143239 Z"
+       id="path1147" />
+    <path
+       style="fill:#000807;fill-opacity:1;stroke:none;stroke-width:1.21883px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 51.237911,34.675226 V 27.344078 H 81.011338 L 58.606666,52.98944 v 6.051587 H 51.203462 V 50.431363 L 64.947688,34.798158 H 51.243623 Z"
+       id="path1453" />
+    <path
+       style="fill:#000807;fill-opacity:1;stroke:none;stroke-width:1.21883px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 88.213504,27.062494 h 8.229295 l -4.166141,9.463929 20.553232,8.739002 -5.85885,13.654252 H 99.090285 L 103.10871,49.364882 82.582718,40.47296 Z"
+       id="path1604" />
+  </g>
+</svg>
