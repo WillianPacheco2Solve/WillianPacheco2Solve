@@ -30,7 +30,7 @@ if [ $? -ne 0 ]; then
 fi
 
 log "STEP 4: Bumping the version using Commitizen"
-cz bump
+cz bump --yes
 if [ $? -ne 0 ]; then
     log "ERROR: Failed to bump version using Commitizen"
     exit 1
