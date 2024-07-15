@@ -32,11 +32,11 @@
 <br/>
 
 <div align="center">
-    <a href="https://github.com/WillianPacheco2Solve">
+    <a href="https://github.com/pachecowillians-2solve">
         <img width="48%"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianPacheco2Solve&layout=compact&langs_count=25&theme=github_dark" />
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=pachecowillians-2solve&layout=compact&langs_count=25&theme=github_dark" />
         <img width="48%"
-        src="https://github-readme-stats.vercel.app/api?username=WillianPacheco2Solve&layout=compact&langs_count=25&theme=github_dark" />
+        src="https://github-readme-stats.vercel.app/api?username=pachecowillians-2solve&layout=compact&langs_count=25&theme=github_dark" />
       </a>
 </div>
 
