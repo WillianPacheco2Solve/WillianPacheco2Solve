@@ -2,8 +2,8 @@
 name = "cz_customize"
 tag_format = "$version"
 version_scheme = "semver"
-version = "1.0.0"
-version_files = ["package.json:version"]
+version = "1.0.1"
+version_files = ["package.json:version", "README.md:/releases/tag/"]
 update_changelog_on_bump = false
 use_shortcuts = true
 
@@ -16,8 +16,8 @@ example = "feat: this feature enables customization through config file"
 schema = "<change_type>(<scope>): <message>\n\n<description>\n\n<task>\n\nBREAKING CHANGE\n\nCHANGELOG"
 schema_pattern = "^(?P<change_type>bump|feat|fix|docs|style|refactor|perf|test|build|ci|chore|revert)(?:\\((?P<scope>[^)]+)\\))?: (?P<message>[^\n]+)(?:\n\n(?P<description>[^\n]+))?(?:\n\n(?P<task>[^\n]+))?(?:\n\n(?P<breaking_change>BREAKING CHANGE))?(?:\n\n(?P<changelog>CHANGELOG))?"
 
-bump_pattern = "(BREAKING CHANGE|^(feat|fix|perf))"
-bump_map = { "BREAKING CHANGE" = "MAJOR", "feat" = "MINOR", "fix" = "PATCH", "perf" = "perf" }
+bump_pattern = "(^(feat|fix|perf)(?:\\((?P<scope>[^)]+)\\))?: (?:[^\n]+)(?:\n\n(?:[^\n]+))?(?:\n\n(?:[^\n]+))?(?:\n\n(?:BREAKING CHANGE))?(?:\n\n(?:CHANGELOG))?|BREAKING CHANGE)"
+bump_map = { "BREAKING CHANGE" = "MAJOR", "feat" = "MINOR", "fix" = "PATCH", "perf" = "PATCH" }
 
 changelog_pattern = "^(feat|fix|docs|style|refactor|perf|test|build|ci|chore|revert)?(!)?"
 change_type_map = { "feat" = "Feat", "fix" = "Fix", "docs" = "Docs", "style" = "Style", "refator" = "Refactor", "perf" = "Perf", "test" = "Test", "build" = "Build", "ci" = "CI", "chore" = "Chore" }
