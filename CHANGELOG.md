@@ -1,3 +1,9 @@
+## 1.0.1 (2024-07-15)
+
+### Fix
+
+- **global**: fixing commitizen config and release script
+
 ## 1.0.0 (2024-07-11)
 
 ### Chore
